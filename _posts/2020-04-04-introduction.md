@@ -3,40 +3,20 @@ layout: post
 title: Introduction
 ---
 
-*The Strange Case of Dr. Jekyll and Mr. Hyde* tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel's supporting cast is a man by the name of Mr. Poole, Dr. Jekyll's loyal butler.
 
------
+I am a graduate student in the [Department of Religion at Princeton University](https://religion.princeton.edu/people/students/graduate-students/darren-yau/), working in the subfield of politics, religion, and ethics. My current interests focus on questions such as:
 
-Poole is the butler for [Jekyll](http://jekyllrb.com), the static site generator. It's designed and developed by [@mdo](https://twitter.com/mdo) to provide a clear and concise foundational setup for any Jekyll site. It does so by furnishing a full vanilla Jekyll install with example layouts, pages, posts, and styles.
+1. How have various kinds of religious commitments shaped the current landscape of moral and political thought; 
+2. What are the promises and perils of contemporary projects in political theology, Augustinian or otherwise;  
+3. How should we think about the various practices, such as forgiveness, reparations, and reconciliation, that are available to redress massive, structural historical injustices? 
 
-This demo site was last updated {{ site.time | date: "%B %d, %Y" }}.
+These are some of the questions I’ve been asking of late, and I welcome any reading recommendations you may have to the ever-growing reading list.
 
-There are currently two themes built on Poole:
+I also have a standing side interest in matters of race and politics: I help organize the [Asian American Studies Faculty Graduate Group](https://ihum.princeton.edu/reading-groups/asian-american-studies-reading-group), the central NJ race and multi-media reading group, and I’m on the steering committee for the Lived Theology Conference over at Princeton Theological Seminary. 
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Before the pandemic, I hosted a memory cafe related to the ethics of remembering, specifically about the Chinese Cultural Revolution. I hope to do more in the future. 
 
-Learn more and contribute on [GitHub]({{ site.github.repo }}).
+Before coming to Princeton, I worked and lived in Chicago, and before that, I studied philosophy and early christian studies at Wheaton College. 
 
-## What's included
+You can contact me at dyau@princeton.edu.
 
-Poole is a streamlined Jekyll site designed and built as a foundation for building more meaningful themes. Poole, and every theme built on it like this one, includes the following:
-
-* Complete Jekyll setup included (layouts, config, [404]({{ '404.html' | relative_url }}), [RSS feed]({{ 'atom.xml' | relative_url }}), posts, [archive page]({{ 'archive' | relative_url }}), and [example page]({{ 'about' | relative_url }}))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Jekyll's built-in support for Rouge
-
-Additional features are available in individual themes.
-
-## Browser support
-
-Poole and its themes are by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), Firefox, and Edge.
-
-## Download
-
-These themes are developed on and hosted with GitHub. Head to the [GitHub repository]({{ site.github.repo }}) for downloads, bug reports, and features requests.
-
-Thanks!
